@@ -1,0 +1,4 @@
+pandas
+sqlite-utils
+jupyter-server-proxy
+datasette
